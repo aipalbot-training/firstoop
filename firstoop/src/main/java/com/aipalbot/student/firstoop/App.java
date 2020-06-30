@@ -28,6 +28,7 @@ public class App
         s3.setName("Juliet");
         s3.setDept("EEE");
         s3.setLevel("300L");
+        //test
         
         List<Student> students = new ArrayList<>(); //represents array
         students.add(s1);
