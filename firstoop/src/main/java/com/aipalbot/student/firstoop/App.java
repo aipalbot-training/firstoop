@@ -28,7 +28,7 @@ public class App
         s3.setName("Juliet");
         s3.setDept("EEE");
         s3.setLevel("300L");
-        //test -- I am happy I'm in my branch
+        //test -- I am happy I'm in my branch.
         
         List<Student> students = new ArrayList<>(); //represents array
         students.add(s1);
